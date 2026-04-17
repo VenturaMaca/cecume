@@ -1,0 +1,265 @@
+[
+  {
+    "dia": "Durante toda la semana...",
+    "actividades": [
+      {
+        "id": 1,
+        "titulo": "Torneo 3x3 de baloncesto",
+        "hora": "20:00",
+        "lugar": "Las pistas de la isla",
+        "descripcion": "El torneo de baloncesto 3x3 es una competición dinámica y rápida que se juega con tres jugadores por equipo en media cancha. Animate a participar y demuestra si eres mas de basket o baloncesto!",
+        "imagen": "/web/assets/imgs/actividades/basket.webp",
+        "url": "https://forms.office.com/e/dfM3ssnqgz"
+      },
+      {
+        "id": 2,
+        "titulo": "Concurso mascota del CUMe",
+        "hora": "",
+        "lugar": "",
+        "descripcion": "Si estás interesado pulsa en el siguiente boton para ver las bases.",
+        "imagen": "/web/assets/imgs/actividades/mascotas.webp",
+        "url": "https://drive.google.com/file/d/13mHAH8gGhbZAaHZblo2yJZ3kVLT9-mfp/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "titulo": "Exposición fotográfica “Geoinformación Geomática y Topografía”",
+        "hora": "Todo el día",
+        "lugar": "",
+        "descripcion": "Con la colaboración del Colegio Oficial de Ingeniería Geomática y Topográfica se ha convocado un concurso de fotografía para colegiados de Extremadura y alumnos del grado de Geomática del CUMe. Se expondrán las fotografías presentadas en las instalaciones del CUMe y se difundirán por redes sociales.",
+        "imagen": "/web/assets/imgs/actividades/fotos_topografia.webp",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "titulo": "Torneo de padel",
+        "hora": "Por determinar",
+        "lugar": "Pabellón Diocles",
+        "descripcion": "Torneo de padel entre los alumnos del CUMe y amigos.",
+        "imagen": "/web/assets/imgs/actividades/padel.webp",
+        "url": "https://forms.office.com/e/tYr5LHE8UW"
+      }
+    ]
+  },
+  {
+    "dia": "Martes 22",
+    "actividades": [
+      {
+        "id": 5,
+        "titulo": "Mural Colaborativo",
+        "hora": "10:00",
+        "lugar": "Aparcamiento delante de la cafeteria",
+        "descripcion": "Ven y deja tu huella en el mural colaborativo aplicando tecnicas de arte urbano.",
+        "imagen": "/web/assets/imgs/actividades/mural.webp",
+        "url": "https://forms.office.com/e/PJdZUQBTsx"
+      },
+      {
+        "id": 6,
+        "titulo": "torneo Pokemon TCGP",
+        "hora": "10:00",
+        "lugar": "Aula ECTS",
+        "descripcion": "Torneo de pokemon TCGP individual.",
+        "imagen": "/web/assets/imgs/actividades/pokemon.webp",
+        "url": "https://forms.office.com/e/kAx7gzfAuq"
+      },
+      {
+        "id": 7,
+        "titulo": "Charla sobre higiene postural y alimentacion en exámenes",
+        "hora": "11:00",
+        "lugar": "Salón de Actos",
+        "descripcion": "Aprende a cuidar tu salud y bienestar durante la época de exámenes. Dirigido a todos los estudiantes y profesorado para tener conocimiento de ciertas rutinas que llevamos a cabo durante esta época tan estresante. Duración estimada: 1 hora y media.",
+        "imagen": "/web/assets/imgs/actividades/higiene_postural.webp",
+        "url": "https://forms.office.com/e/jRyS6Fivn8"
+      },
+      {
+        "id": 8,
+        "titulo": "Torneo Brawl Stars",
+        "hora": "12:00",
+        "lugar": "Aula ECTS",
+        "descripcion": "Torneo de Brawl Stars individual.",
+        "imagen": "/web/assets/imgs/actividades/brawl_star.webp",
+        "url": "https://forms.office.com/e/PJdZUQBTsx"
+      },
+      {
+        "id": 9,
+        "titulo": "La IA que vemos y la que no",
+        "hora": "13:00",
+        "lugar": "Salón de Actos",
+        "descripcion": "La inteligencia artificial (IA) nos es ya muy familiar, y es probable que hayamos interactuado con una en un contacto telefónico, como herramienta en nuestro trabajo, etc. En esta charla veremos algunos sitios donde la AI se está usando que son menos conocidos (adelanto: no suelen ser buenos) y nos plantearemos cómo, una vez más, una herramienta con mucho potencial puede ser usada para mejorar o empeorar la sociedad. Duración estimada: 1 hora.",
+        "imagen": "/web/assets/imgs/actividades/charla_ia.webp",
+        "url": "https://forms.office.com/e/hWHCYXqJXB"
+      },
+      {
+        "id": 10,
+        "titulo": "Torneo de Valorant",
+        "hora": "13:00",
+        "lugar": "Online",
+        "descripcion": "Torneo de Valorant por equipos. Se puede presentar tanto equipos como personas sueltas que se les asignará un equipo.",
+        "imagen": "/web/assets/imgs/actividades/valorant.webp",
+        "url": "https://forms.office.com/e/7anM9vTXFj"
+      }
+    ]
+  },
+  {
+    "dia": "Miércoles 23",
+    "actividades": [
+      {
+        "id": 11,
+        "titulo": "Torneo de fútbol",
+        "hora": "Por determinar",
+        "lugar": "Por determinar",
+        "descripcion": "Torneo de futbol sala entre los alumnos del CUMe y amigos.",
+        "imagen": "/web/assets/imgs/actividades/futbol.webp",
+        "url": "https://forms.office.com/e/6EsKCkT019"
+      },
+      {
+        "id": 12,
+        "titulo": "Presente y futuro de los telecos",
+        "hora": "9:30",
+        "lugar": "Salón de Actos",
+        "descripcion": "El objetivo es presentar estas dos instituciones sin ánimo de lucro que apoyan el desarrollo de los estudios y la profesión del Ingeniero e Ingeniera de Telecomunicaciones.. Duración estimada: 1 hora.",
+        "imagen": "/web/assets/imgs/actividades/teleco.webp",
+        "url": "https://forms.office.com/e/6G7ZsSg8VQ"
+      },
+      {
+        "id": 13,
+        "titulo": "Ciberseguridad con CNP",
+        "hora": "11:00",
+        "lugar": "Salón de Actos",
+        "descripcion": "Un representante de la Policía Judicial del CNP nos brindará una charla sobre ciberseguridad y temas relacionados con la seguridad nacional. Durante la sesión, se abordará el panorama actual de la ciberdelincuencia, sus principales amenazas y las estrategias para prevenir y combatir estos delitos. Duración estimada: 1 hora y media.",
+        "imagen": "/web/assets/imgs/actividades/cnp.webp",
+        "url": "https://forms.office.com/e/MHsnZ0vXPi"
+      },
+      {
+        "id": 14,
+        "titulo": "Tecnologías en el 112",
+        "hora": "12:30",
+        "lugar": "Salón de Actos",
+        "descripcion": "Charla impartida por informáticos del 1.1.2. de Extremadura con el objetivo de mostrar toda la tecnología que hay detrás de las emergencias y si es posible en materia de protección civil de la junta de Extremadura. Duración estimada: 1 hora y media.",
+        "imagen": "/web/assets/imgs/actividades/emergencias.webp",
+        "url": "https://forms.office.com/e/EtEDzL8n7j"
+      },
+      {
+        "id": 15,
+        "titulo": "Hackaton del CUMe",
+        "hora": "16:30",
+        "lugar": "Salón de Actos",
+        "descripcion": "hackaton por equipos de estudiantes en los que tendrán que resolver un problema concreto en un escenario de red preparado para el evento. Los equipos deben usar su ingenenio para ''hackear'' un sistema en un tiempo determinado. Duración estimada: 1 hora y media.",
+        "imagen": "/web/assets/imgs/actividades/hackathon.webp",
+        "url": "https://forms.office.com/e/D15ZJmjnC3"
+      },
+      {
+        "id": 16,
+        "titulo": "Preguntas y respuestas sobre Israel y Palestina",
+        "hora": "18:00",
+        "lugar": "Salón de Actos",
+        "descripcion": "Sesión sobre el contexto histórico y los hechos recientes del conflicto Israel-Palestina desde el enfoque de los derechos humanos y la legislación internacional; La sesión estará dividida en una presentación y el resto será una dinámica de preguntas y debate con el público: preguntas (no importa lo básicas que parezcan), discusión y opiniones... con un mecanismo de preguntas anónimas para facilitar la participación.. Duración estimada: 1 hora.",
+        "imagen": "/web/assets/imgs/actividades/palestina.webp",
+        "url": "https://forms.office.com/e/YVxZRQevsA"
+      },
+      {
+        "id": 17,
+        "titulo": "Karaoke",
+        "hora": "18:00",
+        "lugar": "Salón de Actos",
+        "descripcion": "Participa en una divertida tarde de karaoke, donde podrás cantar tus canciones favoritas con tus amigos y compañeros.",
+        "imagen": "/web/assets/imgs/actividades/karaoke.webp",
+        "url": "https://forms.office.com/e/CjqaKkAMD9"
+      },
+      {
+        "id": 18,
+        "titulo": "Torneo de LOL",
+        "hora": "17:00",
+        "lugar": "Online",
+        "descripcion": "Torneo online del famoso juego League of Legends. Participa solo o con tu equipo y demuestra tus habilidades estratégicas en la Grieta del Invocador.",
+        "imagen": "/web/assets/imgs/actividades/lol.webp",
+        "url": "https://forms.office.com/e/PJdZUQBTsx"
+      },
+      {
+        "id": 19,
+        "titulo": "Final liga CECUMe futsal",
+        "hora": "21:00",
+        "lugar": "Pabellón Diocles",
+        "descripcion": "Final de la liga de futbol sala del CECUMe.",
+        "imagen": "/web/assets/imgs/actividades/finalfutsal.webp",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "dia": "Jueves 24",
+    "actividades": [
+      {
+        "id": 20,
+        "titulo": "Taller de grabado de tazas de cristal",
+        "hora": "9:00",
+        "lugar": "Taller de la cortadora láser",
+        "descripcion": "Aprender a grabar logos y nombres en tazas de cristal utilizando la cortadora láser. Duración estimada: 2 horas.",
+        "imagen": "/web/assets/imgs/actividades/tazas_cristal.webp",
+        "url": "https://forms.office.com/e/RuLaQbeEE3"
+      },
+      {
+        "id": 21,
+        "titulo": "Taller de primeros auxilios de la mano de Cruz Roja",
+        "hora": "10:00",
+        "lugar": "Salón de Actos",
+        "descripcion": "Formación básica de primeros auxilios por parte de especialistas de la cruz roja. Duración estimada: 2 horas.",
+        "imagen": "/web/assets/imgs/actividades/cruzroja.webp",
+        "url": "https://forms.office.com/e/A0ScREdgqC"
+      },
+      {
+        "id": 22,
+        "titulo": "Torneo de Rocket League",
+        "hora": "12:00",
+        "lugar": "Online",
+        "descripcion": "Compite en Rocket League y demuestra tus habilidades en esta mezcla de fútbol y coches propulsados.",
+        "imagen": "/web/assets/imgs/actividades/rocket.webp",
+        "url": "https://forms.office.com/e/D79aM3rW4z"
+      },
+      {
+        "id": 23,
+        "titulo": "Beerpong",
+        "hora": "13:30",
+        "lugar": "Entre los edificios",
+        "descripcion": "El Beer Pong se jugara por equipos (Max. 2 personas) y competirán en rondas eliminatorias lanzando pelotas de ping pong en vasos colocados en una mesa. El objetivo es encestar la pelota en los vasos del equipo contrario antes de que ellos.",
+        "imagen": "/web/assets/imgs/actividades/beer_pong.webp",
+        "url": "https://forms.office.com/e/0BLdWtNv80"
+      },
+      {
+        "id": 24,
+        "titulo": "Comida familiar del CUMe",
+        "hora": "14:00",
+        "lugar": "Cafeteria",
+        "descripcion": "Vente a comer tras el beerpong y a hacer previa para la convivencia. Cafetería ofrece montaditos, pinchos de tortilla y mucho más a un precio muy tentador...",
+        "imagen": "/web/assets/imgs/actividades/comida.webp",
+        "url": "#"
+      },
+      {
+        "id": 25,
+        "titulo": "Convivencia",
+        "hora": "16:00",
+        "lugar": "Cafeteria",
+        "descripcion": "Echate unas risas con buena musica y bebida. Pincharán los DJ's del CUMe y se harán varias actividades durante la tarde. Cafetería se encargará de la bebida",
+        "imagen": "/web/assets/imgs/actividades/convivencia.webp",
+        "url": "#"
+      },
+      {
+        "id": 26,
+        "titulo": "Torneo de pulsos",
+        "hora": "17:00",
+        "lugar": "Parking de atrás",
+        "descripcion": "Demuestra tu fuerza y resistencia en este torneo de pulsos. Compite contra otros participantes en emocionantes duelos eliminatorios.",
+        "imagen": "/web/assets/imgs/actividades/torneo_pulsos.webp",
+        "url": "https://forms.office.com/e/SimfB6N766"
+      },
+      {
+        "id": 27,
+        "titulo": "Torneo de Cuatrola",
+        "hora": "18:00",
+        "lugar": "Aparcamiento de atrás",
+        "descripcion": "Torneo de Cuatrola. El torneo se desarrollará en un formato de eliminación directa, donde los equipos competirán entre sí hasta que se declare un campeón.",
+        "imagen": "/web/assets/imgs/actividades/cuatrola.webp",
+        "url": "https://forms.office.com/e/xCptHZTNu0"
+      }
+    ]
+  }
+]
